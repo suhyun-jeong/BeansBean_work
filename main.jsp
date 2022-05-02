@@ -11,5 +11,8 @@
 <jsp:include page="common/top.jsp" flush="true"></jsp:include><BR>
 <jsp:include page="common/menu.jsp" flush="true"></jsp:include>
 <hr>
+
+	<p>TEST_0502</p>
+
 </body>
 </html>
